@@ -1,0 +1,64 @@
+# IAM Fundamentals
+
+## Overview
+
+This lab demonstrates foundational Identity and Access Management concepts through hands-on exercises and a simulated enterprise access-control scenario.
+
+The lab covers:
+
+- Identification
+- Authentication
+- Multi-Factor Authentication
+- Authorization
+- Access Control
+- RBAC
+- ABAC
+- Least Privilege
+- Single Sign-On
+- Identity Lifecycle
+- IAM Logging
+- IAM Auditing
+
+## Lab Environment
+
+| Component | Technology |
+|---|---|
+| Training Platform | TryHackMe |
+| IAM Concepts | Identity & Access Management Room |
+| Documentation | GitHub |
+| Additional Analysis | Enterprise IAM Scenario |
+
+## Objectives
+
+- Understand the IAM lifecycle
+- Differentiate identification, authentication, and authorization
+- Understand MFA and authentication methods
+- Apply least-privilege principles
+- Understand RBAC and ABAC
+- Understand SSO
+- Identify IAM security risks
+- Understand IAM monitoring and auditing
+
+## Lab Sections
+
+1. [IAM Concepts](./01-IAM-Concepts/)
+2. [Authentication](./02-Authentication/)
+3. [Authorization](./03-Authorization/)
+4. [Access Control Models](./04-Access-Control-Models/)
+5. [SSO](./05-SSO/)
+6. [Monitoring & Auditing](./06-Monitoring-Auditing/)
+7. [Enterprise IAM Scenario](./07-Lab-Scenario/)
+
+## Skills Demonstrated
+
+- IAM Fundamentals
+- Authentication
+- Authorization
+- MFA
+- RBAC
+- ABAC
+- Least Privilege
+- SSO
+- Identity Lifecycle Management
+- IAM Monitoring
+- IAM Auditing
